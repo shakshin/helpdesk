@@ -1,0 +1,92 @@
+10
+
+dir
+4795
+svn://ptc-adem/Helpdesk/yii/framework/vendors
+svn://ptc-adem
+
+
+
+2011-10-24T04:23:43.734028Z
+4510
+rigid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38e525c0-233f-fb46-acde-06a43f616ac0
+
+jquery
+dir
+
+README.html
+file
+
+
+
+
+2011-10-25T04:08:57.000000Z
+4149d7b9cb8f0ff24c1f8a6549dcdec9
+2011-10-24T04:23:43.734028Z
+4510
+rigid
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3566
+
+markdown
+dir
+
+TextHighlighter
+dir
+
+bbq
+dir
+
+cldr
+dir
+
+gettext
+dir
+
+adodb
+dir
+
+json
+dir
+
+htmlpurifier
+dir
+
+jqueryui
+dir
+

@@ -1,0 +1,77 @@
+10
+
+dir
+4795
+svn://ptc-adem/Helpdesk/yii/framework/cli/views/shell/module
+svn://ptc-adem
+
+
+
+2011-10-24T04:23:43.734028Z
+4510
+rigid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38e525c0-233f-fb46-acde-06a43f616ac0
+
+models
+dir
+
+components
+dir
+
+controllers
+dir
+
+messages
+dir
+
+module.php
+file
+
+
+
+
+2011-10-25T04:08:58.000000Z
+a97ef89d8542a49d40a950fd89bd1b5c
+2011-10-24T04:23:43.734028Z
+4510
+rigid
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+707
+
+views
+dir
+

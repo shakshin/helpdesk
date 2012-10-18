@@ -1,0 +1,104 @@
+2011/10/24 09:03:08 [error] [exception.CException] exception 'CException' with message 'Property "CWebUser.uid" is not defined.' in /var/www/dev/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/dev/yii/framework/web/auth/CWebUser.php(124): CComponent->__get('uid')
+#1 /var/www/dev/protected/controllers/RequestController.php(60): CWebUser->__get('uid')
+#2 /var/www/dev/yii/framework/web/actions/CInlineAction.php(50): RequestController->actionMy()
+#3 /var/www/dev/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /var/www/dev/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#5 /var/www/dev/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/dev/yii/framework/web/CWebApplication.php(277): CController->run('my')
+#7 /var/www/dev/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('request/my')
+#8 /var/www/dev/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#9 /var/www/dev/index.php(13): CApplication->run()
+#10 {main} REQUEST_URI=/index.php?r=request/my&_dc=1319425393181&page=1&start=0&limit=25
+2011/10/24 09:03:17 [error] [exception.CException] exception 'CException' with message 'Property "CWebUser.uid" is not defined.' in /var/www/dev/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/dev/yii/framework/web/auth/CWebUser.php(124): CComponent->__get('uid')
+#1 /var/www/dev/protected/controllers/RequestController.php(60): CWebUser->__get('uid')
+#2 /var/www/dev/yii/framework/web/actions/CInlineAction.php(50): RequestController->actionMy()
+#3 /var/www/dev/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /var/www/dev/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#5 /var/www/dev/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/dev/yii/framework/web/CWebApplication.php(277): CController->run('my')
+#7 /var/www/dev/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('request/my')
+#8 /var/www/dev/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#9 /var/www/dev/index.php(13): CApplication->run()
+#10 {main} REQUEST_URI=/index.php?r=request/my&_dc=1319425397242&page=1&start=0&limit=25
+2011/10/24 09:03:19 [error] [exception.CException] exception 'CException' with message 'Property "CWebUser.uid" is not defined.' in /var/www/dev/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/dev/yii/framework/web/auth/CWebUser.php(124): CComponent->__get('uid')
+#1 /var/www/dev/protected/controllers/RequestController.php(60): CWebUser->__get('uid')
+#2 /var/www/dev/yii/framework/web/actions/CInlineAction.php(50): RequestController->actionMy()
+#3 /var/www/dev/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /var/www/dev/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#5 /var/www/dev/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/dev/yii/framework/web/CWebApplication.php(277): CController->run('my')
+#7 /var/www/dev/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('request/my')
+#8 /var/www/dev/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#9 /var/www/dev/index.php(13): CApplication->run()
+#10 {main} REQUEST_URI=/index.php?r=request/my&_dc=1319425398937&page=1&start=0&limit=25
+2011/10/24 09:03:35 [error] [exception.CException] exception 'CException' with message 'Property "CWebUser.uid" is not defined.' in /var/www/dev/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/dev/yii/framework/web/auth/CWebUser.php(124): CComponent->__get('uid')
+#1 /var/www/dev/protected/controllers/RequestController.php(60): CWebUser->__get('uid')
+#2 /var/www/dev/yii/framework/web/actions/CInlineAction.php(50): RequestController->actionMy()
+#3 /var/www/dev/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /var/www/dev/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#5 /var/www/dev/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/dev/yii/framework/web/CWebApplication.php(277): CController->run('my')
+#7 /var/www/dev/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('request/my')
+#8 /var/www/dev/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#9 /var/www/dev/index.php(13): CApplication->run()
+#10 {main} REQUEST_URI=/index.php?r=request/my&_dc=1319425415726&page=1&start=0&limit=25&sort=%5B%7B%22property%22%3A%22regtime%22%2C%22direction%22%3A%22ASC%22%7D%5D
+2011/10/24 09:03:35 [error] [exception.CException] exception 'CException' with message 'Property "CWebUser.uid" is not defined.' in /var/www/dev/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/dev/yii/framework/web/auth/CWebUser.php(124): CComponent->__get('uid')
+#1 /var/www/dev/protected/controllers/RequestController.php(60): CWebUser->__get('uid')
+#2 /var/www/dev/yii/framework/web/actions/CInlineAction.php(50): RequestController->actionMy()
+#3 /var/www/dev/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /var/www/dev/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#5 /var/www/dev/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/dev/yii/framework/web/CWebApplication.php(277): CController->run('my')
+#7 /var/www/dev/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('request/my')
+#8 /var/www/dev/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#9 /var/www/dev/index.php(13): CApplication->run()
+#10 {main} REQUEST_URI=/index.php?r=request/my&_dc=1319425415722&page=1&start=0&limit=25
+2011/10/24 09:03:38 [error] [exception.CException] exception 'CException' with message 'Property "CWebUser.uid" is not defined.' in /var/www/dev/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/dev/yii/framework/web/auth/CWebUser.php(124): CComponent->__get('uid')
+#1 /var/www/dev/protected/controllers/RequestController.php(60): CWebUser->__get('uid')
+#2 /var/www/dev/yii/framework/web/actions/CInlineAction.php(50): RequestController->actionMy()
+#3 /var/www/dev/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /var/www/dev/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#5 /var/www/dev/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/dev/yii/framework/web/CWebApplication.php(277): CController->run('my')
+#7 /var/www/dev/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('request/my')
+#8 /var/www/dev/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#9 /var/www/dev/index.php(13): CApplication->run()
+#10 {main} REQUEST_URI=/index.php?r=request/my&_dc=1319425423270&page=1&start=0&limit=25
+2011/10/24 09:03:47 [error] [exception.CException] exception 'CException' with message 'Property "CWebUser.uid" is not defined.' in /var/www/dev/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/dev/yii/framework/web/auth/CWebUser.php(124): CComponent->__get('uid')
+#1 /var/www/dev/protected/controllers/RequestController.php(60): CWebUser->__get('uid')
+#2 /var/www/dev/yii/framework/web/actions/CInlineAction.php(50): RequestController->actionMy()
+#3 /var/www/dev/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /var/www/dev/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#5 /var/www/dev/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/dev/yii/framework/web/CWebApplication.php(277): CController->run('my')
+#7 /var/www/dev/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('request/my')
+#8 /var/www/dev/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#9 /var/www/dev/index.php(13): CApplication->run()
+#10 {main} REQUEST_URI=/index.php?r=request/my&_dc=1319425427248&page=1&start=0&limit=25
+2011/10/24 09:03:49 [error] [exception.CException] exception 'CException' with message 'Property "CWebUser.uid" is not defined.' in /var/www/dev/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/dev/yii/framework/web/auth/CWebUser.php(124): CComponent->__get('uid')
+#1 /var/www/dev/protected/controllers/RequestController.php(60): CWebUser->__get('uid')
+#2 /var/www/dev/yii/framework/web/actions/CInlineAction.php(50): RequestController->actionMy()
+#3 /var/www/dev/yii/framework/web/CController.php(300): CInlineAction->runWithParams(Array)
+#4 /var/www/dev/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#5 /var/www/dev/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/dev/yii/framework/web/CWebApplication.php(277): CController->run('my')
+#7 /var/www/dev/yii/framework/web/CWebApplication.php(136): CWebApplication->runController('request/my')
+#8 /var/www/dev/yii/framework/base/CApplication.php(158): CWebApplication->processRequest()
+#9 /var/www/dev/index.php(13): CApplication->run()
+#10 {main} REQUEST_URI=/index.php?r=request/my&_dc=1319425428938&page=1&start=0&limit=25

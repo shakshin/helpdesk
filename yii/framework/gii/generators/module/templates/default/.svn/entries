@@ -1,0 +1,77 @@
+10
+
+dir
+4795
+svn://ptc-adem/Helpdesk/yii/framework/gii/generators/module/templates/default
+svn://ptc-adem
+
+
+
+2011-10-24T04:23:43.734028Z
+4510
+rigid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38e525c0-233f-fb46-acde-06a43f616ac0
+
+models
+dir
+
+components
+dir
+
+controllers
+dir
+
+messages
+dir
+
+module.php
+file
+
+
+
+
+2011-10-25T04:08:59.000000Z
+bc12cddc675b1908d484eba5838e4941
+2011-10-24T04:23:43.734028Z
+4510
+rigid
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+725
+
+views
+dir
+

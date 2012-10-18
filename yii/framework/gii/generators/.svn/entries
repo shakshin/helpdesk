@@ -1,0 +1,43 @@
+10
+
+dir
+4795
+svn://ptc-adem/Helpdesk/yii/framework/gii/generators
+svn://ptc-adem
+
+
+
+2011-10-24T04:23:43.734028Z
+4510
+rigid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38e525c0-233f-fb46-acde-06a43f616ac0
+
+model
+dir
+
+controller
+dir
+
+form
+dir
+
+module
+dir
+
+crud
+dir
+
